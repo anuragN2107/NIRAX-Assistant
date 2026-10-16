@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.NIRAX-Virtual-Assistant" alt="Profile Views">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=anuragN2107.NIRAX-Virtual-Assistant" alt="Profile Views">
 </p>
 
 ---
