@@ -2,18 +2,27 @@
   <img src="nirax_logo.png" alt="NIRAX Logo" width="220" height="220">
 </p>
 
-<h1 align="center">NIRAX</h1>
-<p align="center"><b>Next-gen Information Retrieval & Assistance X-agent</b></p>
+<h1 align="center">✨ <b>N I R A X</b> ✨</h1>
+<p align="center"><h3>🚀 <b>Next-gen Information Retrieval & Assistance X-agent</b> 🚀</h3></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Production%20Ready-00f3ff?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/Python-3.10%2B-38bdf8?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Gemini-2.5%20Flash-4ade80?style=flat-square&logo=google&logoColor=white" alt="Gemini AI">
-  <img src="https://img.shields.io/badge/License-MIT-9333ea?style=flat-square" alt="License">
+  <b><i>An Advanced Multimodal Desktop AI Assistant & Technical HUD</i></b><br>
+  <sub><b>Created with Passion & Precision by Anurag Srivastava</b></sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-PRODUCTION%20READY-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" alt="Status">
+  <img src="https://img.shields.io/badge/PYTHON-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/GEMINI-2.5%20FLASH-orange?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI">
+  <img src="https://img.shields.io/badge/LICENSE-MIT-purple?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="License">
+  <img src="https://img.shields.io/badge/PLATFORM-WINDOWS%2010%2F11-informational?style=for-the-badge&logo=windows&logoColor=white" alt="Platform">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NIRAX-Virtual-Assistant&color=00f3ff&style=for-the-badge" alt="Profile Views">
 </p>
 
 ---
-
 ## 🚀 Overview
 **NIRAX** is an advanced, production-grade desktop AI assistant engineered from the ground up by **Anurag Srivastava**. It bridges natural language processing (Google Gemini LLM), system hardware telemetry diagnostics, custom voice-controlled execution, dynamic app/web launching, and real-time visual UI telemetry into a unified, high-performance desktop software suite.
 
