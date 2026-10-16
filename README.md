@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="nirax_logo.png" alt="NIRAX Logo" width="220" height="220">
+  <img src="nirax_logo.png" alt="NIRAX Banner" width="100%" style="border-radius: 8px;">
 </p>
 
 <h1 align="center">✨ <b>N I R A X</b> ✨</h1>
@@ -19,8 +19,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NIRAX-Virtual-Assistant&color=00f3ff&style=for-the-badge" alt="Profile Views">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.NIRAX-Virtual-Assistant" alt="Profile Views">
 </p>
+
+---
 
 ---
 ## 🚀 Overview
