@@ -75,6 +75,14 @@ python nirax.py
 To compile NIRAX into a standalone Windows desktop application executable bundle:
 pyinstaller --onefile --noconsole --add-data ".env;." --add-data "nirax_logo.png;." --add-data "nirax_intro.mp4;." nirax.py
 
+---
+## 🔮 Future Scope & Roadmap
+
+* **📱 Cross-Platform Mobile Application (Android/iOS):** Transitioning the architecture to support mobile environments using the **Kivy** framework, providing touch-optimized mobile HUD layouts.
+* **☁️ Cloud Synchronization (`Firebase`):** Real-time synchronization of custom user shortcuts (`shortcuts.json`) and session preferences across multiple client devices.
+* **🎙 Native Mobile Voice Wrappers (`Plyer`):** Integrating native speech-to-text plugins to enable touch-to-talk voice commands seamlessly on mobile handsets.
+* **📧 Advanced Email & Calendar Sync:** Expanding productivity commands to allow NIRAX to securely read unread emails and parse local calendar events directly by voice.
+---
 
 
 ### 👤 Creator
