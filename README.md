@@ -45,3 +45,26 @@
 ```bash
 git clone [https://github.com/YOUR_USERNAME/NIRAX-Virtual-Assistant.git](https://github.com/YOUR_USERNAME/NIRAX-Virtual-Assistant.git)
 cd NIRAX-Virtual-Assistant
+
+```
+### 2. Install Required Python Dependencies
+```bash
+pip install google-genai python-dotenv speech_recognition pyttsx3 pywhatkit psutil pyautogui pillow opencv-python numpy
+
+```
+
+### 3. Configure Your Environment Variables
+Create a file named .env in your root folder and add your Google AI Studio API key:
+GEMINI_API_KEY=your_actual_gemini_api_key_here
+
+### 4. Run NIRAX loaclly
+python nirax.py
+
+## 📦 Standalone Software Deployment (.exe)
+To compile NIRAX into a standalone Windows desktop application executable bundle:
+pyinstaller --onefile --noconsole --add-data ".env;." --add-data "nirax_logo.png;." --add-data "nirax_intro.mp4;." nirax.py
+
+
+
+### 👤 Creator
+Anurag Srivastava
